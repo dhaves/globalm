@@ -1,0 +1,5 @@
+id_estacion,fecha_medicion,temp_c,temp_f,wind_kph,wind_mph,wind_dir,precip_today_metric,precip_today_imperial,relative_humidity,eto
+78,2021-03-30T00_06_00Z,27.3,81.14,6.4,3.97696,SSO,0.0,0.0,42%,3.56
+78,2021-03-30T00_06_00Z,27.3,81.14,6.4,3.97696,SSO,0.0,0.0,42%,3.56
+78,2021-03-30T00_06_00Z,27.3,81.14,6.4,3.97696,SSO,0.0,0.0,42%,3.56
+78,2021-03-30T00_07_00Z,27.3,81.14,4.8,2.9827199999999996,SSO,0.0,0.0,41%,3.56
